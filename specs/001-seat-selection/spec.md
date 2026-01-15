@@ -2,7 +2,6 @@
 
 **Feature Branch**: `001-seat-selection`
 **Created**: 2026-01-15
-**Status**: Draft
 **Input**: User description: "Feature: Seat Selection Interface (MVP). Display a visual screen layout (screen at the top). Render a grid of seats (Rows A-F, Columns 1-10). Seats have 3 states: Available (Gray), Selected (Green - Click to toggle), Occupied (Red - Cannot click, mock some occupied seats initially). Seat Types Logic: Rows A-D: Standard (50.000 VND), Rows E-F: VIP (80.000 VND). Bottom bar shows: Selected seats list (e.g., 'C4, C5') and Total Price. 'Book Ticket' button (disabled if no seat selected). Note: No user login required yet. Mock the movie data (Title: 'Avengers')."
 
 ## User Scenarios & Testing *(mandatory)*
