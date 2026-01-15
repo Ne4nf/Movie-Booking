@@ -1,2 +1,6 @@
-node_modules/.next/.specify/.beads/
+node_modules/
+.next/
+.specify/
+.beads/
 specs/
+nul
