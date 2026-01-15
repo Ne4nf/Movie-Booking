@@ -1,3 +1,6 @@
 node_modules/
 .next/
+.specify/
+.beads/
+specs/
 nul

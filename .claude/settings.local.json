@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo:*)",
+      "Bash(powershell:*)",
+      "Bash(ls:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(bash:*)",
+      "Bash(bd:*)",
+      "Bash(git rev-parse:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(if:*)",
+      "Bash(then echo \"node_modules/.next/.specify/.beads/\")",
+      "Bash(else echo \".gitignore exists\")",
+      "Bash(fi:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
