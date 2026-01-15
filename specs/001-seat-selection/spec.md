@@ -120,10 +120,11 @@ A moviegoer wants to quickly understand which seats are taken and which are avai
 
 ### Mobile & Responsive Requirements
 
-- **MOB-001**: System MUST display the seat grid on mobile devices with minimum viewport width of 375px
+- **MOB-001**: System MUST display the seat grid on mobile devices with minimum viewport width of 375px, with horizontal scrolling allowed when the 10-column grid (440px+ including gaps) exceeds the viewport width
 - **MOB-002**: System MUST use mobile-first responsive design for the seat layout
 - **MOB-003**: System MUST ensure touch targets for seats are at least 44×44px on mobile devices
 - **MOB-004**: System MUST maintain usability across mobile, tablet, and desktop screen sizes
+- **MOB-005**: System MUST provide visual indicators (e.g., shadows or partial content preview) when horizontal scrolling is available on mobile
 
 ### Key Entities
 
