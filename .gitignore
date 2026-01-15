@@ -1,6 +1,7 @@
 node_modules/
 .next/
 .specify/
-.beads/
+.beads/*
+!.beads/issues.jsonl
 specs/
 nul
